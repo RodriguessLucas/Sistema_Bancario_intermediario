@@ -4,6 +4,7 @@ SOBRE O PROJETO:
 são: saque, depósito e extrato. A linguagem escolhida para a contrução do sistema foi Python e 
 foi ultilizado estruturas de dados de nível intermediário como funções, loops, e condicionais e 
 conhecimentos de aninhamento de estruturas e operadoes. 
+  
    O sistema possui x principais funções:
    
    ->login: usuário conecta a sua conta bancária ultilizando seu CPF e número da conta, caso o 
