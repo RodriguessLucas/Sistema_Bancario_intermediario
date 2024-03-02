@@ -135,7 +135,6 @@ AGENCIA = "0001"
 LIMITE = 500
 clientes = []
 conta = []
-
 gerador_conta = 2
 cadastrado = "S"
 
