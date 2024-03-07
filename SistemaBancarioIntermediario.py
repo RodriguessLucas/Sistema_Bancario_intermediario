@@ -139,12 +139,8 @@ def funcao_deposito(valor_deposito, conta, indice_conta_banco_de_dados,/):
 #Dados estaticos e espécie de banco de dados
 AGENCIA = "0001"
 LIMITE = 500
-clientes = [
-    {"cpf":617, "nome":"Lucas Rodrigues", "nascimento":"20/01/2005", "logadouro":["RuaF", 44, "alwa","Fortal","Ce"]}
-]
-conta = [
-    {"cpf":617, "N_conta":1, "agencia":"001", "saldo":0, "movimentacao":(), "saques_diario":3}
-]
+clientes = []
+conta = []
 
 gerador_conta = 2
 cadastrado = "S"
